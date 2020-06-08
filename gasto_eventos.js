@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
 <script>
     function pulaLinha() {
         document.write("<br>");
@@ -23,3 +29,5 @@
 
     mostra("A média de gastos é " + media);
 </script>
+</body>
+</html>

@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
 <script>
     function pulaLinha() {
         document.write("<br>");
@@ -15,3 +21,5 @@
    	    alert(letras[i]);
 	}
 </script>
+</body>
+</html>

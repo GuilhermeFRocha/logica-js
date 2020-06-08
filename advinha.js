@@ -67,5 +67,6 @@
 
     button.onclick = verifica;
 </script>
+</script>
 </body>
 </html>

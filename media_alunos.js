@@ -1,3 +1,9 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+</head>
+<body>
 <script>
     function pulaLinha() {
         document.write("<br>");
@@ -22,3 +28,5 @@
 
     mostra("FIM");
 </script>
+</body>
+</html>
